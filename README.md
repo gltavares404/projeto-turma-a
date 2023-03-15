@@ -14,3 +14,9 @@ TELEFONE: XXXXXXXXXX
 E-mail:   XXXXXXXXXX
 
 ---
+
+
+## experiencias
+
+- Aluno Unimar 
+- Aluno Etec
