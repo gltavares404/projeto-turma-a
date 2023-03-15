@@ -16,7 +16,7 @@ E-mail:   XXXXXXXXXX
 ---
 
 
-## experiencias
+## Experiencias
 
 - Aluno Unimar 
 - Aluno Etec
