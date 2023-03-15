@@ -20,3 +20,4 @@ E-mail:   XXXXXXXXXX
 
 - Aluno Unimar 
 - Aluno Etec
+- Gabriela Leal Tavares
